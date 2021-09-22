@@ -1,0 +1,81 @@
+body{
+    margin: 0px;
+    font-family: sans-serif;
+    color: white;
+}
+h1{
+    font-size: 50px;
+}
+.papir{
+    background-color:#1280bf;
+}
+.restaffald{
+    background-color: #151515;
+}
+.metal{
+    background-color: #5b6d79;
+}
+.plast{
+    background-color: #981e83;
+}
+#header{
+    text-align: center;
+    height: 0.2%;
+    padding: 1%;
+    margin: 0%;
+}
+
+#article{
+    min-height: 70%;
+    padding: 0.5%;
+    margin: 3%;
+    text-align:center;
+}
+
+footer{
+    
+    max-height: 5%;
+    padding: 1%;
+    text-align: center;
+}
+
+#UNord{
+    width:30%;
+}
+
+p{
+    font-size: 25px;
+    text-align: center;
+}
+
+.line{
+    width: 50%;
+}
+
+ul{
+    float:none;
+    list-style-type: none;
+    text-align: center;
+}
+nav{
+    overflow: hidden;
+}
+
+nav a{
+    float: left;
+    display: block;
+    padding: 10px;
+    
+    color: white;
+    text-decoration: none;
+    width: 15%;
+    text-align: center;
+}
+
+nav a:hover {
+    background-color: rgb(42, 36, 44);
+}
+
+.active{
+    background-color: rgb(42, 36, 44);
+}
